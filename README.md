@@ -47,3 +47,6 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 - Roll No.: 2018CSA1136
 - Interests: Python, Web Development
 
+- Name: Rohit Oberoi
+- Roll No.: 2018CSA1182
+- Interests: Java, Advance Java
